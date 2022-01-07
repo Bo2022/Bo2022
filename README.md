@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Bo2022
-- 👀 I’m interested in taking up some volunteer work
 - 🌱 I’m currently learning about the possibilities when using GitHub 
 
 <!---
